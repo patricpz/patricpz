@@ -52,16 +52,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=patricpz&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **[Nome do projeto]** | [Uma frase sobre o que ele faz e qual problema resolve] | [tecnologias] | [Demo](#) · [Repo](#) |
-| **[Nome do projeto]** | [Uma frase sobre o que ele faz e qual problema resolve] | [tecnologias] | [Demo](#) · [Repo](#) |
-
----
 
 ## 📫 Let's connect
 
@@ -69,7 +59,7 @@
   <a href="mailto:barrospatric31@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/patric-ara%C3%BAjo-8b6621279/">
+  <a href="https://www.linkedin.com/in/patric-ara%C3%BAjo-8b6621279/](https://www.linkedin.com/in/patric-ara%C3%BAjo-8b6621279/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
