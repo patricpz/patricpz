@@ -9,15 +9,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computing+Engineering+%7C+Software+%26+Hardware;Building+systems+from+the+ground+up;Always+learning+something+new" alt="Typing animation" />
 
 </div>
-
----
-
-## 👨‍💻 About me
-
-[Escreva aqui 2 ou 3 frases sobre sua formação, interesses e o tipo de problema que gosta de resolver.]
-
----
-
 ## 🛠 Tech Stack
 
 **Linguagens:** Kotlin · C · JavaScript · TypeScript · Python
